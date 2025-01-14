@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sergio Solabre</h1>
-<h3 align="center">Computer engireer</h3>
+<h3 align="center">Spanish computer engineer living in Madrid</h3>
 
-- 📫 How to reach me **sergiosolabre19@gmail.com**
+- 🔭 I’m currently working at **Qaracter**
+
+- 📫 How to reach me **sergiosolabre19@gmail.com or through LinkedIn**
+
+- 📄 Know about my experiences [Worked previously as an intern in web development](Worked previously as an intern in web development)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
